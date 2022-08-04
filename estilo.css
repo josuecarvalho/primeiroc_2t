@@ -1,6 +1,19 @@
 body {
-  background: blue;
+  background: black;
 }
 h1 {
   text-align: center;
+  color: white;
+}
+p {
+  text-align: center;
+  color: white;
+}
+.caixa1 {
+  position: relative;
+  background: grey;
+  width: 200px;
+  height: 200px;
+  color: white;
+  left: 43%;
 }
